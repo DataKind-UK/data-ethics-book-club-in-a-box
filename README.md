@@ -52,6 +52,7 @@ get started too\!
 8.  [Recommender Systems](/Topics%20and%20Materials/8.-Recommender-Systems.md)
 9.  [Medicine and AI](/Topics%20and%20Materials/9.-Medicine-and-AI.md)
 10.  [AI at Work](/Topics%20and%20Materials/10.-AI-at-Work.md)
+11.  [Data and Social Change Movements](/Topics%20and%20Materials/11.-Data-and-Social-Change-Movements.md)
 
 ## Materials
 
