@@ -50,6 +50,7 @@ get started too\!
     Inclusion](/Topics%20and%20Materials/6.-AI-and-Financial-Inclusion.md)
 7.  [AI and Race](/Topics%20and%20Materials/7.-AI-and-Race.md)
 8.  [Recommender Systems](/Topics%20and%20Materials/8.-Recommender-Systems.md)
+9.  [Medicine and AI](/Topics%20and%20Materials/9.-Medicine-and-AI.md)
 
 ## Materials
 
