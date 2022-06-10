@@ -51,6 +51,7 @@ get started too\!
 7.  [AI and Race](/Topics%20and%20Materials/7.-AI-and-Race.md)
 8.  [Recommender Systems](/Topics%20and%20Materials/8.-Recommender-Systems.md)
 9.  [Medicine and AI](/Topics%20and%20Materials/9.-Medicine-and-AI.md)
+10.  [AI at Work](/Topics%20and%20Materials/10.-AI-at-Work.md)
 
 ## Materials
 
