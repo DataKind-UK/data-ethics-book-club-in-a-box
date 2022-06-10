@@ -55,6 +55,7 @@ get started too\!
 11.  [Data and Social Change Movements](/Topics%20and%20Materials/11.-Data-and-Social-Change-Movements.md)
 12.  [Addictive Tech](/Topics%20and%20Materials/12.-Addictive-Tech.md)
 14. [Automating Inequality](/Topics%20and%20Materials/14.-Automating-Inequality.md)
+15.  [AI and Personal Insurance](/Topics%20and%20Materials/15.-AI-and-Personal-Insurance.md)
 
 ## Materials
 
