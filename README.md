@@ -38,32 +38,28 @@ General processes for a book club are found in [Processes](/Processes).
 These topics were run by DataKind UK during 2019. They may help others
 get started too\!
 
-1.  [Impacts of
-    Algorithms](/Topics%20and%20Materials/1.-Impacts-of-Algorithms.md)
-2.  [Facial
-    Recognition](/Topics%20and%20Materials/2.-Facial-Recognition.md)
-3.  [Fairness in AI](/Topics%20and%20Materials/3.-Fairness-in-AI.md)
-4.  [Self-Driving
-    Cars](/Topics%20and%20Materials/4.-Self-driving-Cars.md)
-5.  [AI and Gender](/Topics%20and%20Materials/5.-AI-and-Gender.md)
-6.  [AI and Financial
-    Inclusion](/Topics%20and%20Materials/6.-AI-and-Financial-Inclusion.md)
-7.  [AI and Race](/Topics%20and%20Materials/7.-AI-and-Race.md)
-8.  [Recommender Systems](/Topics%20and%20Materials/8.-Recommender-Systems.md)
-9.  [Medicine and AI](/Topics%20and%20Materials/9.-Medicine-and-AI.md)
-10.  [AI at Work](/Topics%20and%20Materials/10.-AI-at-Work.md)
-11.  [Data and Social Change Movements](/Topics%20and%20Materials/11.-Data-and-Social-Change-Movements.md)
-12.  [Addictive Tech](/Topics%20and%20Materials/12.-Addictive-Tech.md)
+1. [Impacts of Algorithms](/Topics%20and%20Materials/1.-Impacts-of-Algorithms.md)
+2. [Facial Recognition](/Topics%20and%20Materials/2.-Facial-Recognition.md)
+3. [Fairness in AI](/Topics%20and%20Materials/3.-Fairness-in-AI.md)
+4. [Self-Driving Cars](/Topics%20and%20Materials/4.-Self-driving-Cars.md)
+5. [AI and Gender](/Topics%20and%20Materials/5.-AI-and-Gender.md)
+6. [AI and Financial Inclusion](/Topics%20and%20Materials/6.-AI-and-Financial-Inclusion.md)
+7. [AI and Race](/Topics%20and%20Materials/7.-AI-and-Race.md)
+8. [Recommender Systems](/Topics%20and%20Materials/8.-Recommender-Systems.md)
+9. [Medicine and AI](/Topics%20and%20Materials/9.-Medicine-and-AI.md)
+10. [AI at Work](/Topics%20and%20Materials/10.-AI-at-Work.md)
+11. [Data and Social Change Movements](/Topics%20and%20Materials/11.-Data-and-Social-Change-Movements.md)
+12. [Addictive Tech](/Topics%20and%20Materials/12.-Addictive-Tech.md)
 14. [Automating Inequality](/Topics%20and%20Materials/14.-Automating-Inequality.md)
-15.  [AI and Personal Insurance](/Topics%20and%20Materials/15.-AI-and-Personal-Insurance.md)
+15. [AI and Personal Insurance](/Topics%20and%20Materials/15.-AI-and-Personal-Insurance.md)
+16. [Generative AI Special](/Topics%20and%20Materials/16.-Generative-AI-Special.md)
 
 ## Materials
 
 All materials used in the DataKind UK Data Ethics Book club are also
 provided:
 
-  - [All
-    materials](/Topics%20and%20Materials/All-Reading-Materials---2019.md)
+  - [All materials](/Topics%20and%20Materials/All-Reading-Materials---2019.md)
 
 ## Suggestions or Changes?
 
